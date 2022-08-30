@@ -2,16 +2,16 @@
 Unlock PIN,34,0,0,0,0,34
 SIM SWAP Sensitive,1,0,0,0,0,1
 Transaction Reversal Bank To M-Pesa,1,0,0,1,0,2
-M-pesa Account Transaction,3,0,0,0,0,3
-Recharge - Damaged PIN,3,0,0,0,0,3
-SIM SWAP Request,67,0,0,0,0,67
-Loan Balance,3,0,0,0,0,3
+M-pesa Account Transaction,3,0,10,0,0,3
+Recharge - Damaged PIN,3,0,0,0,5,3
+SIM SWAP Request,67,0,0,20,0,67
+Loan Balance,3,0,50,0,0,3
 Reset Pin,11,0,0,0,0,11
 Eligibility,1,0,0,1,0,2
 Trespasse,1,0,0,1,0,2
 M-Pesa Agents,9,0,0,0,0,9
 Transaction Reversal - P2P,5,0,0,1,0,6
-Silent Call - Dropped,2,0,0,0,0,2
+Silent Call - Dropped,2,0,0,2,0,2
 Registration,3,0,0,0,0,3
 Withdraw Cash Declined,1,0,0,0,0,1
 Cannot Receive Calls,1,0,0,0,0,1
@@ -28,7 +28,7 @@ Repayment Queries,1,0,0,1,0,2
 Silent Call - Noisy,2,0,0,0,0,2
 Consulta de Tier,1,0,0,0,0,1
 Fraud Customer to Customer (P2P),2,0,0,0,0,2
-M-Pesa account suspension by Validation,3,0,0,0,0,3
+M-Pesa account suspension by Validation,3,0,50,0,3
 Pedido de Extracto,2,0,0,0,0,2
 Fidelidade na rede com bonus,0,0,0,1,0,1
 Locking request,1,0,0,0,0,1

@@ -1,0 +1,91 @@
+﻿Item,Closed,Pending,Resolved,Assigned,WIP,Total
+Unlock PIN,34,2,1,0,0,37
+SIM SWAP Sensitive,1,2,1,0,0,4
+Transaction Reversal Bank To M-Pesa,1,2,1,1,0,5
+M-pesa Account Transaction,3,2,1,0,0,6
+Recharge - Damaged PIN,3,2,1,0,0,6
+SIM SWAP Request,67,2,1,0,0,70
+Loan Balance,3,2,1,0,0,6
+Reset Pin,11,2,1,0,0,14
+Eligibility,1,2,1,1,0,5
+Trespasse,1,2,1,1,0,5
+M-Pesa Agents,9,2,1,0,0,12
+Transaction Reversal - P2P,5,2,1,1,0,9
+Silent Call - Dropped,2,2,1,0,0,5
+Registration,3,2,1,0,0,6
+Withdraw Cash Declined,1,2,1,0,0,4
+Cannot Receive Calls,1,2,1,0,0,4
+MSISDN reactivation request,3,2,1,0,0,6
+Credelec Recall last Vend,1,2,1,0,0,4
+Tier Upgrade,4,2,1,12,0,19
+Trespasse & Recycle Request,0,2,1,1,0,4
+M-Pesa Account Activation,2,2,1,0,0,5
+Maximum Yearly Money In - Tier 1,6,2,1,3,0,12
+Transaction Reversal ? Withdraw Cash,3,2,1,1,0,7
+Other Services,2,2,1,0,0,5
+Vibratoques,1,2,1,0,0,4
+Repayment Queries,1,2,1,1,0,5
+Silent Call - Noisy,2,2,1,0,0,5
+Consulta de Tier,1,2,1,0,0,4
+Fraud Customer to Customer (P2P),2,2,1,0,0,5
+M-Pesa account suspension by Validation,3,2,1,0,0,6
+Pedido de Extracto,2,2,1,0,0,5
+Fidelidade na rede com bonus,0,2,1,1,0,4
+Locking request,1,2,1,0,0,4
+Amount not received on M-Pesa Account,1,2,1,0,0,4
+M-Pesa Account Suspension,1,2,1,0,0,4
+Registration Update Details,1,2,1,1,0,5
+Deposit Cash,4,2,1,0,0,7
+Agent Float Deposit,0,2,1,2,0,5
+Agentes M-Pesa ? Pedidos submetidos,1,2,1,0,0,4
+Withdraw cash,3,2,1,0,0,6
+Main Account- Txuna Credito,1,2,1,0,0,4
+Buy Credelec,1,2,1,0,0,4
+Receive Money,3,2,1,0,0,6
+What's my number,1,2,1,0,0,4
+Registration Update & Tier Upgrade,2,2,1,4,0,9
+Silent Call - No Response,4,2,1,0,0,7
+Voicemail-Reset PIN,2,2,1,0,0,5
+Bank Issues,1,2,1,0,0,4
+New Request,3,2,1,0,0,6
+Transaction Reversal - Deposit Cash,1,2,1,0,0,4
+Data Bundles- Informa�?o n?o actualizada,2,2,1,0,0,5
+Transaction Reversal - E-mola to M-Pesa,0,2,1,1,0,4
+SIM Swap 3G-4G,1,2,1,0,0,4
+Cannot use the services,1,2,1,0,0,4
+Cannot Send SMS,1,2,1,0,0,4
+Barring Service,2,2,1,0,0,5
+Registration Confirmed,0,2,1,1,0,4
+Meu N�mero 1,2,2,1,0,0,5
+Phones and accessories,1,2,1,0,0,4
+Txuna Cr�dito,2,2,1,0,0,5
+Data Bundles reallocation,1,2,1,0,0,4
+Send Money to Unregistered Customer,2,2,1,0,0,5
+M-Pesa Account Details Update,1,2,1,1,0,5
+CLIP - Caller Line Identity Presentation,2,2,1,0,0,5
+Contract -Renewal,0,2,1,1,0,4
+Conta Xitique,1,2,1,0,0,4
+PUK Request,1,2,1,0,0,4
+Transaction Reversal P2P - Used money,0,2,1,1,0,4
+Trans Reversal ? Withdraw 100-1500,1,2,1,0,0,4
+SIM Swap-48h barring,1,2,1,0,0,4
+Reimbursement Request,0,2,1,1,0,4
+No Signal,1,2,1,0,0,4
+GoTV - Novo Tarif�rio,1,2,1,0,0,4
+Cannot Make Calls,1,2,1,0,0,4
+Transaction Reversal P2P 100-500,2,2,1,0,0,5
+Contract Cancellation Request,0,2,1,1,0,4
+Agentes M-Pesa ? Requisitos,1,2,1,0,0,4
+Bom dia promo ? Bonus,1,2,1,0,0,4
+Transaction Reversal - Deposit Cash 100-1500,1,2,1,0,0,4
+Service Fee,2,2,1,0,0,5
+Main Account,1,2,1,0,0,4
+Batch Deactivated,0,2,1,1,0,4
+Credit transfer,1,2,1,0,0,4
+SIM Swap Auto-troca 3G-4G,1,2,1,0,0,4
+Oferta de Internet diaria,1,2,1,0,0,4
+Manual configuration,1,2,1,0,0,4
+Resend Voucher,1,2,1,0,0,4
+M-pesa  Acount  Status,1,2,1,0,0,4
+Vicinity Check - Withdrawal,1,2,1,0,0,4
+Subscriber payments Queries,1,2,1,0,0,4
